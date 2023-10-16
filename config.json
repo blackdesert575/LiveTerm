@@ -1,20 +1,20 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "readmeUrl": "https://raw.githubusercontent.com/hong539/hong539/main/README.md",
   "title": "LiveTerm",
   "name": "Yung-Hung Huang",
   "ascii": "liveterm",
   "social": {
     "github": "hong539",
-    "linkedin": "Yung-Hung Huang"
+    "linkedin": "yung-hung-huang-763871294"
   },
   "email": "yunghunghuang984@gmail.com",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "repo": "https://github.com/hong539/LiveTerm",
   "resume_url": "https://resume.ootori.dev/",
   "donate_urls": {
     "paypal": "https://paypal.me/yunghunghuang984",
-    "patreon": "patreon.com/yunghunghuang984"
+    "patreon": "https://patreon.com/yunghunghuang984"
   },
   "colors": {
     "light": {
