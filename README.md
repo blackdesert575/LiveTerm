@@ -63,7 +63,7 @@ First, clone the project and edit `config.json` to your liking. Then run the fol
 #docker
 #manually execute
 docker build . -t docker.io/focal1119/liveterm:dev -f Dockerfile.dev
-docker run -d --name liveterm -p 8000:3000 docker.io/focal1119/liveterm:dev
+docker run -d --name liveterm -p 8002:3000 docker.io/focal1119/liveterm:dev
 
 #with docker-compose
 docker-compose up -d
