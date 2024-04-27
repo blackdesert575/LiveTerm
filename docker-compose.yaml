@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+    liveterm:
+        hostname: liveterm
+        container_name: liveterm
+        image: docker.io/focal1119/liveterm:dev
+        restart: always
+        # entrypoint: tail -f /dev/null
+        ports:
+          - "8002:3000"
+        # network_mode: "host"
