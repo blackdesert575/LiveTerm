@@ -10,3 +10,7 @@ npm install react@latest react-dom@latest
 rm -rf node_modules package-lock.json
 
 npm install
+
+#fix git hook: .husky/pre-commit
+#.husky/pre-commit: 4: yarn: not found
+npm install -g yarn
