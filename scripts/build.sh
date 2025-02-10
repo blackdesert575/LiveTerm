@@ -1,7 +1,5 @@
-#!/bin/bash
-
-# uncomment for debug
-# set -x
+#!/usr/bin/env bash
+set -euxo pipefail
 
 echo "Setup PATH..."
 
