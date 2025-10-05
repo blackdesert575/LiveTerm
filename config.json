@@ -1,18 +1,18 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/hong539/hong539/main/README.md",
+  "readmeUrl": "https://raw.githubusercontent.com/blackdesert575/blackdesert575/main/README.md",
   "title": "LiveTerm",
   "name": "Yung-Hung Huang",
   "ascii": "liveterm",
   "social": {
-    "github": "hong539",
+    "github": "blackdesert575",
     "linkedin": "joe-huang-763871294"
   },
   "email": "yunghunghuang984@gmail.com",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
-  "repo": "https://github.com/hong539/LiveTerm",
+  "repo": "https://github.com/blackdesert575/LiveTerm",
   "resume_url": "https://resume.ootori.dev/",
-  "setup_dev_environment_url": "https://setup_dev_environment.ootori.dev/",
+  "setup_devops_environment_url": "https://setup_devops_environment.ootori.dev/",
   "donate_urls": {
     "paypal": "https://paypal.me/yunghunghuang984",
     "patreon": "https://patreon.com/yunghunghuang984"
